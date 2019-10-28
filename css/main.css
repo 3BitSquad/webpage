@@ -1794,7 +1794,7 @@ header .logo a {
 /* -------------------------------------------------------------------
  * main navigation - mobile view
  * ------------------------------------------------------------------- */
-@media only screen and (max-width:768px) {
+ @media only screen and (max-width:768px) {
 	.triggers {
 		z-index: 601;
 	}
